@@ -1,0 +1,10 @@
+.navbar {
+    background-image: url(../Assets/Images/Side_Menu/menu-header-bg.png);
+    background-repeat: no-repeat;
+    background-color: #9458c3;
+}
+
+.jumbotron {
+    background-color: #b771ed;
+    color: #fff;
+}
