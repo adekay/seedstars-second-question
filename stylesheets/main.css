@@ -1,3 +1,36 @@
+
+@font-face {
+    font-family: 'Proxima Nova Soft';
+    font-style: normal;
+    font-weight: 300;
+    src: url("../Assets/Fonts/ProximaNovaSoft/ProximaNovaSoft-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'Proxima Nova Soft';
+    font-style: normal;
+    font-weight: 500;
+    src: url("../Assets/Fonts/ProximaNovaSoft/ProximaNovaSoft-Medium.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'Proxima Nova Soft';
+    font-style: normal;
+    font-weight: 700;
+    src: url("../Assets/Fonts/ProximaNovaSoft/ProximaNovaSoft-Semibold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'Proxima Nova Soft';
+    font-style: normal;
+    font-weight: 900;
+    src: url("../Assets/Fonts/ProximaNovaSoft/ProximaNovaSoft-Bold.otf") format("opentype");
+}
+
+body {
+    font-family: 'Proxima Nova Soft';
+}
+
 .navbar {
     background-image: url(../Assets/Images/Side_Menu/menu-header-bg.png);
     background-repeat: no-repeat;
@@ -7,4 +40,5 @@
 .jumbotron {
     background-color: #b771ed;
     color: #fff;
+    border-radius: 0px;
 }
